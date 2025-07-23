@@ -4,7 +4,7 @@
 # ECT-BoFM
 
 Code release for `Edge- and Color-texture-aware Bag-of-Local-Features Model for Accurate and Interpretable Skin Lesion Diagnosis`.
- 
+ ![enter image description here](https://github.com/Dichao-Liu/ECT-BoFM/blob/main/Pipeline.png)
 
 ### Environment
 
@@ -80,3 +80,5 @@ pip install git+https://github.com/wielandbrendel/bag-of-local-features-models.g
  python train_inference.py
  ```
 
+### Visualization Results
+![enter image description here](https://github.com/Dichao-Liu/ECT-BoFM/blob/main/visualization.png)
