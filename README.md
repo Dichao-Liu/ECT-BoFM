@@ -4,7 +4,9 @@
 # ECT-BoFM
 
 Code release for `Edge- and Color-texture-aware Bag-of-Local-Features Model for Accurate and Interpretable Skin Lesion Diagnosis`.
- ![enter image description here](https://github.com/Dichao-Liu/ECT-BoFM/blob/main/Pipeline.png)
+
+
+![enter image description here](https://github.com/Dichao-Liu/ECT-BoFM/blob/main/Pipeline.png)
 
 ### Environment
 
